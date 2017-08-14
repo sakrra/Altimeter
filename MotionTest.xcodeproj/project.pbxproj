@@ -418,7 +418,7 @@
 				DEVELOPMENT_TEAM = 826242YN25;
 				INFOPLIST_FILE = MotionTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samiramo.MotionTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.samiramo.Altimeter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -431,7 +431,7 @@
 				DEVELOPMENT_TEAM = 826242YN25;
 				INFOPLIST_FILE = MotionTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samiramo.MotionTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.samiramo.Altimeter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -514,6 +514,7 @@
 				26EA51911F3C747B00A50E88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		26EA51921F3C747B00A50E88 /* Build configuration list for PBXNativeTarget "MotionTestTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				26EA51941F3C747B00A50E88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		26EA51951F3C747B00A50E88 /* Build configuration list for PBXNativeTarget "MotionTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				26EA51971F3C747B00A50E88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
