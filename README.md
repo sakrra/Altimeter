@@ -1,2 +1,2 @@
 # Altimeter
-Simple test app to test barometer to show relative altitude change
+Simple test app that uses iPhone's barometer to show relative altitude change.
